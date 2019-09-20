@@ -1,6 +1,6 @@
 # data_ieee96
 
-This repository includes the data of the IEEE RTS-96 test system [1] modified to accommodate 19 wind farms as proposed in [2]. This power systems includes 73 nodes and 120 transmission lines. Each data file is explained below: 
+This blablaba includes the data of the IEEE RTS-96 test system [1] modified to accommodate 19 wind farms as proposed in [2]. This power systems includes 73 nodes and 120 transmission lines. Each data file is explained below: 
 
 - thermal_ieee96.csv: data on thermal generators including minimum and maximum outputs, variable cost and ramping limits
 
