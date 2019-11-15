@@ -6,7 +6,7 @@ The aim of this repository is to provide the details of the medium-size data set
 members of the [OASYS group](https://sites.google.com/view/groupoasys/home) thanks to the funding of the project [Flexanalytics](https://groupoasysflexanalytics.readthedocs.io/en/latest/). We suggest you to visit the related links to know more our research 😉
 
 
-##Contents 📖
+## Contents 📖
 
 This repository includes the data of the IEEE RTS-96 test system [[1]](https://ieeexplore.ieee.org/abstract/document/780914) modified to accommodate 19 wind farms as proposed in [[2]](https://ieeexplore.ieee.org/abstract/document/7115977). This power systems includes 73 nodes and 120 transmission lines. Each data file is explained below: 
 
@@ -18,7 +18,7 @@ This repository includes the data of the IEEE RTS-96 test system [[1]](https://i
 
 - [wind_ieee96.csv](wind_ieee96.csv): data on hourly wind power generating at each node of the system for a whole year
 
-##References 📚
+## References 📚
 
 [1] Grigg, C., Wong, P., Albrecht, P., Allan, R., Bhavaraju, M., Billinton, R. and Singh, C. (1999). The IEEE Reliability Test System-1996. A report prepared by the Reliability Test System Task Force of the Application of Probability Methods Subcommittee. IEEE Transactions on Power Systems, 14(3), 1010–1020. https://doi.org/10.1109/59.780914
 
