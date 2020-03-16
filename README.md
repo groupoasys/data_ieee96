@@ -24,7 +24,7 @@ This repository includes the data of the IEEE RTS-96 test system [[1]](https://i
 
 [2] Pandzic, H., Dvorkin, Y., Qiu, T., Wang, Y. and Kirschen, D. S. (2015). Toward Cost-Efficient and Reliable Unit Commitment Under Uncertainty. IEEE Transactions on Power Systems, PP(99), 1–13. https://doi.org/10.1109/TPWRS.2015.2434848
 
-[3] Pineda, S., Morales, J. M. and Jiménez-Cordero, A. (2020). Data-Driven Screening of Network Constraints for Unit Commitment.IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2020.2980212. https://doi.org/10.1109/TPWRS.2020.2980212
+[3] Pineda, S., Morales, J. M. and Jiménez-Cordero, A. (2020). Data-Driven Screening of Network Constraints for Unit Commitment. IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2020.2980212. https://doi.org/10.1109/TPWRS.2020.2980212
 
 [4] OASYS, Data IEEE 96, Github repository (https://github.com/groupoasys/data_ieee96) , 2019.
 
