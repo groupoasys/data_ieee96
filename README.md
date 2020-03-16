@@ -24,21 +24,22 @@ This repository includes the data of the IEEE RTS-96 test system [[1]](https://i
 
 [2] Pandzic, H., Dvorkin, Y., Qiu, T., Wang, Y. and Kirschen, D. S. (2015). Toward Cost-Efficient and Reliable Unit Commitment Under Uncertainty. IEEE Transactions on Power Systems, PP(99), 1–13. https://doi.org/10.1109/TPWRS.2015.2434848
 
-[3] Pineda, S., Morales, J. M. and Jiménez-Cordero, A. (2019). Data-Driven Screening of Network Constraints. Submited. Available at: https://www.researchgate.net/publication/334390057_Data-driven_Network_Reduction_for_Transmission-Constrained_Unit_Commitment
+[3] Pineda, S., Morales, J. M. and Jiménez-Cordero, A. (2020). Data-Driven Screening of Network Constraints for Unit Commitment.IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2020.2980212. https://doi.org/10.1109/TPWRS.2020.2980212
 
 [4] OASYS, Data IEEE 96, Github repository (https://github.com/groupoasys/data_ieee96) , 2019.
 
 ## How to cite the repo and the paper? 📝
 
-If you want to cite paper [[3]](https://www.researchgate.net/publication/334390057_Data-driven_Network_Reduction_for_Transmission-Constrained_Unit_Commitment) or this repo, [[4]](https://github.com/groupoasys/data_ieee96), please use the following bib entries:
+If you want to cite paper [[3]](https://ieeexplore.ieee.org/document/9034123) or this repo, [[4]](https://github.com/groupoasys/data_ieee96), please use the following bib entries:
 
 * Article:
 ```
-@article{pineda2019data,
-  title={Data-driven Network Reduction for Transmission-Constrained Unit Commitment},
-  author={Pineda, Salvador and Morales, Juan Miguel and Jim{\'e}nez-Cordero, Asunci{\'o}n},
-  journal={arXiv preprint arXiv:1907.04694},
-  year={2019}
+@article{pineda2020data,
+  title={Data-Driven Network Screening of Network Constraints for Unit Commentment},
+  author={Pineda, Salvador and Morales, Juan Miguel and Jim\'enez-Cordero, Asunci\'on},
+  journal={IEEE Transactions on Power Systems},
+  year={2020},
+  doi={10.1109/TPWRS.2020.2980212},
 }
 ```
 * Repository:
