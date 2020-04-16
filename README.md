@@ -18,6 +18,12 @@ This repository includes the data of the IEEE RTS-96 test system [[1]](https://i
 
 - [wind_ieee96.csv](wind_ieee96.csv): data on hourly wind power generating at each node of the system for a whole year
 
+- [congestion(capx1).csv](congestion(capx1).csv): congestion data of transmission lines for original capacity limits
+
+- [congestion(capx2).csv](congestion(capx2).csv): congestion data of transmission lines if capacity limits are doubled
+
+- [congestion(capx05).csv](congestion(capx05).csv): congestion data of transmission lines if capacity limits are halved
+
 ## References 📚
 
 [1] Grigg, C., Wong, P., Albrecht, P., Allan, R., Bhavaraju, M., Billinton, R. and Singh, C. (1999). The IEEE Reliability Test System-1996. A report prepared by the Reliability Test System Task Force of the Application of Probability Methods Subcommittee. IEEE Transactions on Power Systems, 14(3), 1010–1020. https://doi.org/10.1109/59.780914
