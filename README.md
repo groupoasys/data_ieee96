@@ -18,11 +18,11 @@ This repository includes the data of the IEEE RTS-96 test system [[1]](https://i
 
 - [wind_ieee96.csv](wind_ieee96.csv): data on hourly wind power generating at each node of the system for a whole year
 
-- [congestion(capx1).csv](congestion(capx1).csv): congestion data of transmission lines for original capacity limits
+- [congestion_capx1.csv](congestion(capx1).csv): congestion data of transmission lines for original capacity limits
 
-- [congestion(capx2).csv](congestion(capx2).csv): congestion data of transmission lines if capacity limits are doubled
+- [congestion_capx2.csv](congestion(capx2).csv): congestion data of transmission lines if capacity limits are doubled
 
-- [congestion(capx05).csv](congestion(capx05).csv): congestion data of transmission lines if capacity limits are halved
+- [congestion_capx05.csv](congestion(capx05).csv): congestion data of transmission lines if capacity limits are halved
 
 ## References 📚
 
